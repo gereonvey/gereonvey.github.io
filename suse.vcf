@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Vey;Gereon;;;
+FN:Gereon Vey
+ORG:SUSE
+TITLE:Sr. Manager\, SAP Emerging Technology Solutions
+EMAIL;type=INTERNET;type=pref:gereon.vey@suse.com
+TEL;type=CELL;type=VOICE;type=pref:+49-152-06387456
+ADR;type=WORK;type=pref:;;Altrottstr. 31;Walldorf;;69190;Germany
+URL;type=pref:https://suse.com/sap
+PHOTO;TYPE=JPEG:https://gereonvey.com/img/headshot.jpg
+SOURCE:https://gereonvey.com/suse.vcf
+END:VCARD
